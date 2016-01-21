@@ -18,3 +18,6 @@ Rewrite the 'first exercise' commit. We forgot that the scenarios in this README
 
 #### Scenario 5 - Rewrite commit with conflict
 Rewrite the 'boyscout' commit. As you can see, we made a mistake, we forgot to make the 'scenario 3' header smaller. Fix this mistake and add that change to the 'boyscout' commit. Use interactive rebasing.
+
+#### Scenario 6 - Squash commits
+After reviewing the commits, you have the idea that the 'add descriptive titles' commit and the 'boyscout' commit could just be one commit. Squash these commits into one '[BOYSCOUT] Improve headers in README' commit.
