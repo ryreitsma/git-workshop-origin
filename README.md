@@ -15,3 +15,6 @@ Add a commit before the 'first exercise' commit. In the LICENSE file it states t
 
 #### Scenario 4 - Rewrite commit
 Rewrite the 'first exercise' commit. We forgot that the scenarios in this README file should be grouped per exercise. Add a h2 header 'Exercise 1' above 'Scenario 1' and add that change to the 'first exercise' commit. Use interactive rebasing.
+
+#### Scenario 5 - Rewrite commit with conflict
+Rewrite the 'boyscout' commit. As you can see, we made a mistake, we forgot to make the 'scenario 3' header smaller. Fix this mistake and add that change to the 'boyscout' commit. Use interactive rebasing.
